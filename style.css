@@ -17,7 +17,7 @@ body {
 }
 
 .bg {
-    background: url('/Travel.jpg') no-repeat center center/cover;
+    background: url('https://unsplash.com/photos/z3htkdHUh5w') no-repeat center center/cover;
     position:absolute;
     top: 0px;
     left: -0px;
